@@ -1,0 +1,6 @@
+{
+  "name": "Prime Property",
+  "description": "Web Platform & Internal Agent Portal untuk Prime Property",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
